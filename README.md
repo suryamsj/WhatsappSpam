@@ -1,7 +1,7 @@
 # WhatsappSpam
 Ini adalah sebuah script spam chat whatsapp yang dibuat dengan menggunakan Javascript.
 
-Cara Penggunaan :
+<h3>Cara Penggunaan :</h3>
 
 Untuk cara penggunaannya, silahkan buka Whatsapp Web. Lalu masuk ke orang yang mau dispam chat
 <img src="https://i.imgur.com/YheYr1c.png" alt="WhasappWeb" width="500"></img>
